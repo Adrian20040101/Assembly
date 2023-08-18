@@ -1,1 +1,0 @@
-Maximum von dieser Reihe ist: 64 (in Basis 16)
